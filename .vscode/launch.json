@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ariji/Desktop/STL",
-      "program": "c:/Users/ariji/Desktop/STL/build/Debug/outDebug",
+      "cwd": "h:/C++/STL_LUV",
+      "program": "h:/C++/STL_LUV/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
